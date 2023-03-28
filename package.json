@@ -1,0 +1,25 @@
+{
+  "name": "ci-cd-library-with-github-actions",
+  "version": "1.0.0",
+  "description": "Librería para trabajar con CI / CD usando Github Actions en el tutorial de Medium",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-js-ts-angular-modules-course/ci-cd-library-with-github-actions.git"
+  },
+  "author": "Anartz Mugika Ledo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npm-js-ts-angular-modules-course/ci-cd-library-with-github-actions/issues"
+  },
+  "homepage": "https://github.com/npm-js-ts-angular-modules-course/ci-cd-library-with-github-actions#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
